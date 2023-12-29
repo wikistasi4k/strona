@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Moja pierwsza strona domowa</title>
+    
+    </head>
+    <body>
+        <img src="moi.jpg" alt="wakacje na jachcie">
+        <h1>O mnie</h1>
+        <p>Imię: Wiktoria
+            Nazwisko: Stasiak
+        </p>
+
+    </body>
+</html>

@@ -2,14 +2,15 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Moja pierwsza strona domowa</title>
+        <link rel="stylesheet" href="stylesheet.css">
     
     </head>
     <body>
+        <h1 class="strong">Moja pierwsza strona domowa</h1>
         <img src="moi.jpg" alt="wakacje na jachcie">
-        <h1>O mnie</h1>
-        <p>Imię: Wiktoria
-            Nazwisko: Stasiak
+        <h2 class="strong">O mnie</h2>
+        <p><span class="strong">Imię:</span>Wiktoria
+            <span class="strong">Nazwisko:</span>Stasiak
         </p>
 
     </body>

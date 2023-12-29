@@ -1,11 +1,20 @@
 h1 {
     color: pink;
     background: gray;
-    font-size: 18px;
+    font-size: 30px;
 }
 h2 {
     color:aqua;
-    font-size: 22px;
+    font-size: 40px;
+}
+h3 {
+    font-size: 20px;
 }
 .strong{
     font-weight:bold;
+}
+.zmniejszony_obrazek {
+    max-width: 300px;
+    max-height: auto;
+}
+

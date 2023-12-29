@@ -1,0 +1,13 @@
+
+h1 {
+    color: pink;
+    background: gray;
+    font-size: 18px;
+}
+h2 {
+    color:aqua;
+    font-size: 22px;
+}
+.strong{
+    font-weight:bold;
+}
